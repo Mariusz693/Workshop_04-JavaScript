@@ -1,0 +1,8 @@
+.task h2{
+    cursor: pointer;
+}
+.delete-operation{
+    /*background: red;*/
+    background-color: red;
+    color: red;
+}
